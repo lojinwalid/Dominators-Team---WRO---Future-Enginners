@@ -73,18 +73,26 @@ the walls it was pretty simple as the camera sees the walls on both sides with n
 
 ## Left Side of robot
 
+
 ![WhatsApp Image 2023-07-31 at 11 43 14 PM](https://github.com/lojinwalid/Dominators-Team---WRO---Future-Enginners/assets/141444821/46688d15-5be3-47cb-9f35-35996fe2f02f)
+
 
 ## Right side of robot
 
+
 ![WhatsApp Image 2023-07-31 at 11 43 15 PM](https://github.com/lojinwalid/Dominators-Team---WRO---Future-Enginners/assets/141444821/6e53a4e9-7d5e-4d15-9a47-ba5de19ed0d3)
 
-## Top view of robot
+
+##  Top view of robot
+
 
 ![WhatsApp Image 2023-08-01 at 2 38 37 PM](https://github.com/lojinwalid/Dominators-Team---WRO---Future-Enginners/assets/141444821/084e8022-f2a4-48d3-bbb6-ab1733a10a0a)
 
-## Bottom view of robot
+
+##  Bottom view of robot
+
 ![WhatsApp Image 2023-08-01 at 2 39 46 PM](https://github.com/lojinwalid/Dominators-Team---WRO---Future-Enginners/assets/141444821/43fe51b3-be49-419b-af9a-b4aa75429e01)
+
 
 ## bottom view on SOLIDWORKS
 
@@ -92,6 +100,7 @@ the walls it was pretty simple as the camera sees the walls on both sides with n
 
 
 ## Isometric view on SOLIDWORKS
+
 ![123](https://github.com/lojinwalid/Dominators-Team---WRO---Future-Enginners/assets/141444821/56ebcb6f-d8a5-4488-b915-9b3748e37b8a)
 
 ![Capture](https://github.com/lojinwalid/Dominators-Team---WRO---Future-Enginners/assets/141444821/c3a3dcd8-f346-4d83-98bd-d5d33f4cd4aa)
