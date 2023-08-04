@@ -15,15 +15,18 @@ with the speed and torque we looking for (250rpm 8kg).
 ![WhatsApp Image 2023-07-31 at 11 43 14 PM](https://github.com/lojinwalid/Dominators-Team---WRO---Future-Enginners/assets/141444821/46688d15-5be3-47cb-9f35-35996fe2f02f)
 
 Right side of robot
+
 ![WhatsApp Image 2023-07-31 at 11 43 15 PM](https://github.com/lojinwalid/Dominators-Team---WRO---Future-Enginners/assets/141444821/6e53a4e9-7d5e-4d15-9a47-ba5de19ed0d3)
 
 Top view of robot
+
 ![WhatsApp Image 2023-08-01 at 2 38 37 PM](https://github.com/lojinwalid/Dominators-Team---WRO---Future-Enginners/assets/141444821/084e8022-f2a4-48d3-bbb6-ab1733a10a0a)
 
 Bottom view of robot
 ![WhatsApp Image 2023-08-01 at 2 39 46 PM](https://github.com/lojinwalid/Dominators-Team---WRO---Future-Enginners/assets/141444821/43fe51b3-be49-419b-af9a-b4aa75429e01)
 
 bottom view on SOLIDWORKS
+
 ![543](https://github.com/lojinwalid/Dominators-Team---WRO---Future-Enginners/assets/141444821/98fe4d7c-1c39-4170-b241-4eee49522783)
 
 
