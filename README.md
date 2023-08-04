@@ -39,42 +39,59 @@ This documentation previews our project in WRO FUTURE ENIGNNERS our team consist
 ![OIP](https://github.com/lojinwalid/Dominators-Team---WRO---Future-Enginners/assets/141444821/e137dce7-e05c-4c1f-979f-5b75382d2b44)
 
 </p>
-For communicating with the camera module and giving signals to the motor driver to make the
-motors move accordingly we use the Arduino nano because of its small size and has many pins.
-• We use the motor driver (L298N) to control the speed and direction of motor.
-• We use a micro-geared servo motor for the steering by controlling the direction of the forward 
 
-wheels to the left or right.
-• We use the buck converter to step down the voltage that the battery provides because the
-servo motor operates with 5v, not 12v
-• We used a 12v DC geared motor because it operates with 12volt and 1 A and provides the robot
-with the speed and torque we looking for (250rpm 8kg).
-• we used a standard 12volt battery with 3600mA
+## links 
+* Buck converter: https://makerselectronics.com/product/lm2596s-dc-dc-converter-3a-step-down
+* Servo motor: https://makerselectronics.com/product/micro-servo-sg90-0180-degree
+* Openmv H7:  https://openmv.io/products/openmv-cam-h7
+* Arduino nano: https://makerselectronics.com/product/arduino-nano-with-usb-type-c
 
-<p align="center">
-Left Side of robot
-</p>
+## Electrical schematic of our robot
 
+![Screenshot 2023-08-04 233702](https://github.com/lojinwalid/Dominators-Team---WRO---Future-Enginners/assets/141444821/b910dcf0-357d-4ce3-b3f0-d050e43fe766)
+
+## code
+* Code is divided into steps:
+     * blocks
+     * Lines
+     * Walls
+Ordered according to priority from top to bottom
+
+### Blocks:
+
+We used a simple searching algorithm where camera search in a specified ROI (region of interest) which detects the red and green blocks and orders the srvo motor to rotate depending on the block's colour
+
+### Lines :
+
+In the klines, it was a little different from the blocks. We made a function on the first colour the robots detects whether it's orange or blue the robot turns and cancel the second line. If the first line the robot sees is orange it turns right and when seeing blue it turns left
+
+### Walls:
+
+the walls it was pretty simple as the camera sees the walls on both sides with no problem in their colour values as they have high contrast black colour. the robot finds the two walls and calculates their area and then finds the biggest area  then go to the opposite side according to the closer wall then make the decision to go left or right or forward 
+
+  
+
+## Left Side of robot
 
 ![WhatsApp Image 2023-07-31 at 11 43 14 PM](https://github.com/lojinwalid/Dominators-Team---WRO---Future-Enginners/assets/141444821/46688d15-5be3-47cb-9f35-35996fe2f02f)
 
-Right side of robot
+## Right side of robot
 
 ![WhatsApp Image 2023-07-31 at 11 43 15 PM](https://github.com/lojinwalid/Dominators-Team---WRO---Future-Enginners/assets/141444821/6e53a4e9-7d5e-4d15-9a47-ba5de19ed0d3)
 
-Top view of robot
+## Top view of robot
 
 ![WhatsApp Image 2023-08-01 at 2 38 37 PM](https://github.com/lojinwalid/Dominators-Team---WRO---Future-Enginners/assets/141444821/084e8022-f2a4-48d3-bbb6-ab1733a10a0a)
 
-Bottom view of robot
+## Bottom view of robot
 ![WhatsApp Image 2023-08-01 at 2 39 46 PM](https://github.com/lojinwalid/Dominators-Team---WRO---Future-Enginners/assets/141444821/43fe51b3-be49-419b-af9a-b4aa75429e01)
 
-bottom view on SOLIDWORKS
+## bottom view on SOLIDWORKS
 
 ![543](https://github.com/lojinwalid/Dominators-Team---WRO---Future-Enginners/assets/141444821/98fe4d7c-1c39-4170-b241-4eee49522783)
 
 
-Isometric view on SOLIDWORKS
+## Isometric view on SOLIDWORKS
 ![123](https://github.com/lojinwalid/Dominators-Team---WRO---Future-Enginners/assets/141444821/56ebcb6f-d8a5-4488-b915-9b3748e37b8a)
 
 ![Capture](https://github.com/lojinwalid/Dominators-Team---WRO---Future-Enginners/assets/141444821/c3a3dcd8-f346-4d83-98bd-d5d33f4cd4aa)
