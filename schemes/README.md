@@ -1,6 +1,5 @@
 Electromechanical diagrams
 ====
-## Our Driving motor
 
 ## Electrical schematic of our robot
 
