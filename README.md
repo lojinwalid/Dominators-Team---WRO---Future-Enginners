@@ -18,6 +18,10 @@ This documentation previews our project in WRO FUTURE ENIGNNERS our team consist
   
 ![OIP](https://github.com/lojinwalid/Dominators-Team---WRO---Future-Enginners/assets/141444821/bd7bc5f2-0eef-4d78-bda0-f4d41e5e175c)
 </p>
+*A DC Motor with Gear Box JGA25-370-12V-250RPM 8.8Kg.cm
+
+![OIP](https://github.com/lojinwalid/Dominators-Team---WRO---Future-Enginners/assets/102741393/e1ea36af-f705-4714-b7a9-7fc6d847756c)
+</p>
 *L298 motor driver: to drive the DC motor
 
 <p align="center">
@@ -33,14 +37,15 @@ This documentation previews our project in WRO FUTURE ENIGNNERS our team consist
 
 </p>
 
-*Buck converter DC to DC : 12 volts input to get 9 volts output
+*Buck converter DC to DC : 12 volts input to get 6 volts output for servo motor
 <p align="center">
   
 ![OIP](https://github.com/lojinwalid/Dominators-Team---WRO---Future-Enginners/assets/141444821/e137dce7-e05c-4c1f-979f-5b75382d2b44)
 
 </p>
-</p>
+
 *12V 3S-2P 3600mAh Rechargeable 18650 Li-ion Battery Pack with battery management system (BMS) 
+![OIP](https://github.com/lojinwalid/Dominators-Team---WRO---Future-Enginners/assets/102741393/d489b517-8898-4295-8f5f-665a395b457f)
 
 </p>
 
@@ -68,7 +73,7 @@ We used a simple searching algorithm where camera search in a specified ROI (reg
 
 ### Lines :
 
-In the klines, it was a little different from the blocks. We made a function on the first colour the robots detects whether it's orange or blue the robot turns and cancel the second line. If the first line the robot sees is orange it turns right and when seeing blue it turns left
+In the lines, it was a little different from the blocks. We made a function on the first colour the robots detects whether it's orange or blue the robot turns and cancel the second line. If the first line the robot sees is orange it turns right and when seeing blue it turns left
 
 ### Walls:
 
