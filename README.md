@@ -6,7 +6,7 @@ This documentation previews our project in WRO FUTURE ENIGNNERS our team consist
   
 <b> Our coach : Omar Khaled El-Sayed </b>
 
-## Our components
+## Vehicle’s Electromechanical Components
 
 * Openmv H7: for detecting blocks and their colour
   <p align="center">
@@ -39,6 +39,11 @@ This documentation previews our project in WRO FUTURE ENIGNNERS our team consist
 ![OIP](https://github.com/lojinwalid/Dominators-Team---WRO---Future-Enginners/assets/141444821/e137dce7-e05c-4c1f-979f-5b75382d2b44)
 
 </p>
+</p>
+*12V 3S-2P 3600mAh Rechargeable 18650 Li-ion Battery Pack with battery management system (BMS) 
+
+</p>
+
 
 ## links 
 * Buck converter: https://makerselectronics.com/product/lm2596s-dc-dc-converter-3a-step-down
