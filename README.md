@@ -19,7 +19,7 @@ This documentation previews our project in WRO FUTURE ENIGNNERS our team consist
 ![OIP](https://github.com/lojinwalid/Dominators-Team---WRO---Future-Enginners/assets/141444821/bd7bc5f2-0eef-4d78-bda0-f4d41e5e175c)
 </p>
 *A DC Motor with Gear Box JGA25-370-12V-250RPM 8.8Kg.cm
-<p align="center">
+
 ![OIP](https://github.com/lojinwalid/Dominators-Team---WRO---Future-Enginners/assets/102741393/e1ea36af-f705-4714-b7a9-7fc6d847756c)
 </p>
 *L298 motor driver: to drive the DC motor
@@ -43,7 +43,7 @@ This documentation previews our project in WRO FUTURE ENIGNNERS our team consist
 ![OIP](https://github.com/lojinwalid/Dominators-Team---WRO---Future-Enginners/assets/141444821/e137dce7-e05c-4c1f-979f-5b75382d2b44)
 
 </p>
-</p>
+
 *12V 3S-2P 3600mAh Rechargeable 18650 Li-ion Battery Pack with battery management system (BMS) 
 ![OIP](https://github.com/lojinwalid/Dominators-Team---WRO---Future-Enginners/assets/102741393/d489b517-8898-4295-8f5f-665a395b457f)
 
